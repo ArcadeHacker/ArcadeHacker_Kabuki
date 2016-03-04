@@ -1,4 +1,4 @@
-// Kabuki Desuicider 1.1 by arcadehacker.blogspot.com
+// Kabuki Desuicider 1.2 by arcadehacker.blogspot.com
 #include <LiquidCrystal.h>
 
 // lcd stuff
